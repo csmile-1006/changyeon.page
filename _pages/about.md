@@ -51,7 +51,7 @@ invited_talks:
 
 academic_services:
   - name: Conference Reviewer
-    venue: ICML (2024), NeurIPS (2024)
+    venue: ICLR (2025), ICML (2024, 2025), NeurIPS (2024, 2025)
   - name: Workshop Reviewer
     venue: Frontiers4LCD@ICML'23
 
